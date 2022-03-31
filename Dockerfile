@@ -95,6 +95,3 @@ FROM bitnami/grafana-image-renderer:3.4.1-debian-10-r5
 
 # Tags: 3.4.1-debian-10-r4
 FROM bitnami/grafana-image-renderer:3.4.1-debian-10-r4
-
-# Tags: 3.4.1-debian-10-r3
-FROM bitnami/grafana-image-renderer:3.4.1-debian-10-r3
