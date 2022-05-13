@@ -1,12 +1,42 @@
-# Tags: latest, 3.4.2-debian-10-r39, 3.4.2, 3-debian-10, 3
+# Tags: latest, 3.4.2-debian-10-r49, 3.4.2, 3-debian-10, 3
 FROM bitnami/grafana-image-renderer:latest
-FROM bitnami/grafana-image-renderer:3.4.2-debian-10-r39
+FROM bitnami/grafana-image-renderer:3.4.2-debian-10-r49
 FROM bitnami/grafana-image-renderer:3.4.2
 FROM bitnami/grafana-image-renderer:3-debian-10
 FROM bitnami/grafana-image-renderer:3
 
 # Tags: _
 FROM bitnami/grafana-image-renderer:_
+
+# Tags: 3.4.2-debian-10-r48
+FROM bitnami/grafana-image-renderer:3.4.2-debian-10-r48
+
+# Tags: 3.4.2-debian-10-r47
+FROM bitnami/grafana-image-renderer:3.4.2-debian-10-r47
+
+# Tags: 3.4.2-debian-10-r46
+FROM bitnami/grafana-image-renderer:3.4.2-debian-10-r46
+
+# Tags: 3.4.2-debian-10-r45
+FROM bitnami/grafana-image-renderer:3.4.2-debian-10-r45
+
+# Tags: 3.4.2-debian-10-r44
+FROM bitnami/grafana-image-renderer:3.4.2-debian-10-r44
+
+# Tags: 3.4.2-debian-10-r43
+FROM bitnami/grafana-image-renderer:3.4.2-debian-10-r43
+
+# Tags: 3.4.2-debian-10-r42
+FROM bitnami/grafana-image-renderer:3.4.2-debian-10-r42
+
+# Tags: 3.4.2-debian-10-r41
+FROM bitnami/grafana-image-renderer:3.4.2-debian-10-r41
+
+# Tags: 3.4.2-debian-10-r40
+FROM bitnami/grafana-image-renderer:3.4.2-debian-10-r40
+
+# Tags: 3.4.2-debian-10-r39
+FROM bitnami/grafana-image-renderer:3.4.2-debian-10-r39
 
 # Tags: 3.4.2-debian-10-r38
 FROM bitnami/grafana-image-renderer:3.4.2-debian-10-r38
@@ -64,30 +94,3 @@ FROM bitnami/grafana-image-renderer:3.4.2-debian-10-r21
 
 # Tags: 3.4.2-debian-10-r20
 FROM bitnami/grafana-image-renderer:3.4.2-debian-10-r20
-
-# Tags: 3.4.2-debian-10-r19
-FROM bitnami/grafana-image-renderer:3.4.2-debian-10-r19
-
-# Tags: 3.4.2-debian-10-r18
-FROM bitnami/grafana-image-renderer:3.4.2-debian-10-r18
-
-# Tags: 3.4.2-debian-10-r17
-FROM bitnami/grafana-image-renderer:3.4.2-debian-10-r17
-
-# Tags: 3.4.2-debian-10-r16
-FROM bitnami/grafana-image-renderer:3.4.2-debian-10-r16
-
-# Tags: 3.4.2-debian-10-r15
-FROM bitnami/grafana-image-renderer:3.4.2-debian-10-r15
-
-# Tags: 3.4.2-debian-10-r14
-FROM bitnami/grafana-image-renderer:3.4.2-debian-10-r14
-
-# Tags: 3.4.2-debian-10-r13
-FROM bitnami/grafana-image-renderer:3.4.2-debian-10-r13
-
-# Tags: 3.4.2-debian-10-r12
-FROM bitnami/grafana-image-renderer:3.4.2-debian-10-r12
-
-# Tags: 3.4.2-debian-10-r11
-FROM bitnami/grafana-image-renderer:3.4.2-debian-10-r11
